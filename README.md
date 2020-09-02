@@ -1,6 +1,6 @@
 # Solo exercise Pokefetch (WBS Coding School)
 
-![pokeball](src/assets/pokeball-logo.png)
+![pokeball](src/pokeball.png)
 
 ## Exercise outline:
 
